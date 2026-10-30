@@ -1,1 +1,22 @@
-# Código de Conduta\n\n## Nosso compromisso\n\nEste projeto mantém um espaço respeitoso para pessoas de todas as origens e níveis de experiência. Participantes devem colaborar de boa-fé, com foco no trabalho e na aprendizagem.\n\n## Comportamentos esperados\n\n- Usar linguagem acolhedora e objetiva.\n- Respeitar opiniões, experiências e limites diferentes.\n- Dar críticas sobre a mudança, com contexto e sugestões práticas.\n- Reportar problemas de forma privada e responsável quando houver risco.\n\n## Comportamentos inaceitáveis\n\n- Assédio, insultos, discriminação ou ataques pessoais.\n- Divulgação de dados pessoais sem permissão.\n- Ameaças, intimidação ou interrupção deliberada das discussões.\n\n## Aplicação\n\nRelate uma violação pelo canal indicado em [SUPPORT.md](SUPPORT.md). Os relatos serão avaliados com discrição; medidas podem incluir orientação, remoção de conteúdo ou bloqueio de participação.\n
+# Código de Conduta
+
+## Nosso compromisso
+
+Este projeto mantém um espaço respeitoso para pessoas de todas as origens e níveis de experiência. Participantes devem colaborar de boa-fé, com foco no trabalho e na aprendizagem.
+
+## Comportamentos esperados
+
+- Usar linguagem acolhedora e objetiva.
+- Respeitar opiniões, experiências e limites diferentes.
+- Dar críticas sobre a mudança, com contexto e sugestões práticas.
+- Reportar problemas de forma privada e responsável quando houver risco.
+
+## Comportamentos inaceitáveis
+
+- Assédio, insultos, discriminação ou ataques pessoais.
+- Divulgação de dados pessoais sem permissão.
+- Ameaças, intimidação ou interrupção deliberada das discussões.
+
+## Aplicação
+
+Relate uma violação pelo canal indicado em SUPPORT.md. Os relatos serão avaliados com discrição; medidas podem incluir orientação, remoção de conteúdo ou bloqueio de participação.
